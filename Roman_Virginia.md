@@ -18,8 +18,8 @@ En esta etapa y por la parte que me toco hacer (la cual habíamos dividido anter
 El método que optamos para resolver lo de la normalización fue consultar la documentación de la cátedra para así contar con información precisa la cual podemos utilizar con respecto a nuestro trabajo y así realizar una redacción mas adecuada. 
 
 ## 5. Evidencias en el repositorio
-* **Archivos modificados:** docs/etapa-02/modelo-relacional.md]
-* **Rama utilizada:** feature/modelo-relacional]
+* **Archivos modificados:** docs/etapa-02/normalizacion.md
+* **Rama utilizada:** main.
 * **Pull Request:** En esta etapa no pude hacer ningun Pull Reuest.
 
 ## 6. Reflexión individual
