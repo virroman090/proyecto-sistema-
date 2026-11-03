@@ -1,1 +1,25 @@
+# Contribución individual -- Etapa 05
+**Equipo:** 16  
+**Integrante:** Román Virginia Guadalupe 
+**Fecha:** 2026-11-03
 
+---
+
+## 1. Aporte realizado:
+En esta etapa el trabajo que realice fue el de la optimizacion y la creacion de los indices 
+## 2. Decisiones en las que participé:
+En esta etapa no hubo muchas deciciones que tomar, como cada uno ya sabia la parte del proyecto que le tocaba lo unico que se tubo que hacer fue unir todo y subirlo al repositor.
+## 3. Problemas o dificultades identificadas:  
+Tube un problema al tratar de hacer una prueba de compra
+## 4. Soluciones o propuestas realizadas:  
+Se propuso elimirar algunas compras para asi poder realizarlas de nuevo y probar si funcionaba, tambien agregar otras.
+Ese metodo funciono para que cada compra fuera aceptada segun el procedimiento de registro de compra anterior mente realizado por mi compañero.
+## 5. Evidencias en el repositorio  
+* **Archivos modificados:**indices_optimizacion.sql |  procedimiento_optimizado.sql | prueba_compra.sql | indices-optimizacion.md 
+* **Rama utilizada:** sql/tecnico/indices/indices_optimizacion.sql
+                      sql/tecnico/indices/procedimiento_optimizado.sql
+                      sql/tecnico/indices/prueba_compra.sql
+                      docs/etapa-05/indices-optimizacion.md
+* **Pull Request:** No hice
+## 6. Reflexión individual  
+Lo que aprendi en esta etapa es que cada parte que hacemos tiene relacion con la parte que esta realizando tu compañero, no solo tenes que hacer tu parte sino tambien prevenir los cambies que pueden realizar los demas. Todo puede mejorar y cuando se trata de optimizar codigo más.
